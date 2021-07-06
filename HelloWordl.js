@@ -4,4 +4,6 @@ const array = [ ...numbers , 4];
 for (let index = 0; index < array.length; index++) {
     console.log(array[index]);
     //hello worldddsf
+    //hello
+    
 }
